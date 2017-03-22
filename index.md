@@ -1,5 +1,7 @@
 ## Top Machine Learning Algorithms Data Scientists Need to Know
 
+![](http://gph.is/2aEXkoi)
+
 #### Supervised
 
 ##### Decision Trees:
@@ -19,5 +21,15 @@ In statistics, logistic regression, or logit regression, or logit model[1] is a 
 
 ![](https://i.stack.imgur.com/5vpYa.png)
 
+##### Support Vector Machines:
+A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Svm_intro.svg/2000px-Svm_intro.svg.png)
+
 #### Unsupervised
 
+
+##### Clustering Algorithms:
+Cluster analysis or clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters). It is a main task of exploratory data mining, and a common technique for statistical data analysis, used in many fields, including machine learning, pattern recognition, image analysis, information retrieval, bioinformatics, data compression, and computer graphics.
+
+![](https://cssanalytics.files.wordpress.com/2013/11/cluster-image.png)
