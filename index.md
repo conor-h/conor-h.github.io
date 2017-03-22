@@ -1,6 +1,6 @@
 ## Top Machine Learning Algorithms Data Scientists Need to Know
 
-![](http://gph.is/2aEXkoi)
+![](https://media.giphy.com/media/BdrSy2gqURFEk/giphy.gif)
 
 #### Supervised
 
